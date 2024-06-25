@@ -2,11 +2,11 @@
 ## We are going to make a food recipe app using React.js.
 
 **Pre-requisite:**
-React hooks
-React components
-JavaScript ES6
-API 
-CSS
+<h3>React hooks</h3>
+<h3>React components</h3>
+<h3>JavaScript ES6</h3>
+<h3>API</h3> 
+<h3>CSS</h3>
 
 Approach: Here in this app we should have a component where we are going to show our food recipes. And we need to fetch all the required food recipes using a food recipe API. We will fetch the API data, store those data in a component structure using react hooks (useEffect, useState ).
 
